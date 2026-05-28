@@ -1,151 +1,142 @@
 {
   "business": {
-    "name": "Atelier Garment Exporters",
-    "phone": "+91 44 2815 9000",
-    "email": "inquiries@ateliergarments.com",
-    "address": "Atelier Towers, Sector 4, KASEZ, Chennai, Tamil Nadu 600096, India",
-    "yearEstablished": "1994",
-    "capacity": "2.4 Million Garments Annually"
+    "name": "SHREE MAHAVIR FABRICS MFG CO.",
+    "full_address": "112, New Cloth Market, Sarangpur, Raipur, Ahmedabad, Gujarat 380002, India",
+    "phone": "+91 70696 60366",
+    "local_phone": "070696 60366",
+    "website": "https://shreemahavirfabrics.com/",
+    "rating": 5,
+    "total_reviews": 22,
+    "business_status": "OPERATIONAL",
+    "google_maps_url": "https://maps.google.com/?cid=13006596122666698809",
+    "lat": 23.0176331,
+    "lng": 72.60015109999999,
+    "open_now": true,
+    "weekday_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sherin Shah",
+        "rating": 5,
+        "review": "Premium fabrics",
+        "time_ago": "7 months ago"
+      },
+      {
+        "author_name": "Management Information System Mahavir",
+        "rating": 5,
+        "review": "I have been associated with Shree Mahavir Fabrics MFG Co., and I must say they truly deliver excellence in shirting fabrics. Established in 1999, their years of experience clearly reflect in the quality, finishing, and consistency of their products.\nThey offer a wide range of plain, printed, and dobby shirting fabrics, all of which are durable, colorfast, and skin-friendly. The team is professional, supportive, and always keeps up with the latest market trends.\nTheir commitment to quality and timely delivery makes them one of the most reliable fabric manufacturers in the industry.\nHighly recommended for anyone looking for premium shirting fabrics.",
+        "time_ago": "3 weeks ago"
+      },
+      {
+        "author_name": "Hetal Rathod",
+        "rating": 5,
+        "review": "I recently purchased some fabric from Shree Mahavir Fabrics and I was impressed with the quality. The variety they offer is quite good, especially for traditional wear. Definitely a place to check out in Ahmedabad.",
+        "time_ago": "4 weeks ago"
+      }
+    ],
+    "photos": [
+      {
+        "width": 1156,
+        "height": 867,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-tcqAlBwAkd0Rt4QpitH78LnIcNnK_te_zgmpUN4rME7HCSYs9qKPpkuk0DSJWlTm4OChPED7_VxWXdxxnKvPCco9MfmWeSr_KrZDBvDEcuuUg_ylEupqkh__U7cu1susRVcjmySaYlcWNfCZgQn_pyFk-I6eYtXNvx4o_DmirDQn2UdDjDwVLB5dobnA_TgoOiBW0I-5VZUrRTP09zGYplEmMPWb5zdVfbKarzTl_Nbtgo24Ec86PZq7IOHruA1sy3OF4xgqYqWBuHCZONCW-4gXP6svftCZvwh4hIsOz36W8UmMm8d9kXc0PtZo7qM69cNKoNidmvZSLmyEw5kyVCj2PtjCXmEAPnHCmos-kUhS8fqs6Z4E3_p6Gf446uvv08SGfAWOkoSgLoD1qd3IhLc-BRJ-aHm6WQZMBjlP8F1EqF&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 1156,
+        "height": 867,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sMgQRZqrxtKAPG-jzitcpp7Bot5TTDWLy6snzA0_N-VEhmBAcnrLkJPH_fMgq-zMkeF7ILP-ZpwxwtoP8BMrXA_gzmuvA_NoaCOWpP4bo-xBXorNeQrGw5-XvIc3z53qca9DZy2eqoGUUY1BGpnP-AUFwORbKRz57bgh4AnPCjVSTKuWYt6ml2FK8RPYAyBM-_vGZCGlI2FGtpGhbbBUOBpDyae6Ja29aBzee8rUy7LBObrGd_0c3R2jkkSUU49CUGR5Uo0ZRbde3AfS1BQgBEzK0Tz3egBGkgcpNqhrImccTORsTSNNKRveLhjmMkh9RPXYUz8J_4iU5BsP0iqZprVuQZIXBUxq9iqOakTWQ1IBGGu_poli-viWZBuGZFw6HeNMUJSQjI9Fmm19Lbe5vnV3UsQxOpHgFEk3mf4x3hO6zk&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 867,
+        "height": 1156,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uDpWpjWL2Ld_0KAVIxpM_vRCAgGJY7lqC2kczfSpjZHpazIa4jsQ8KI6fm5kY74IP3sSx2y_Zd0LhG_3Z-lSLsWKO3QxDyJwtuH0XLz0GkP8yxx9XpKs7pdlfJSHcCA5YUZR8t2Tfg0cBZ-B02VvtJrsjp9D10B1zNzbLQIaVZsc_5WhfoDEs_HyJWdulHZ8mHbNZv7du1xBFgbjIAo8GlXgSBZOBn0ekRQaaygov07OcxI715CbXxnoiuvv0eNp3GT4yHxwnj7xNhbIq2_DNDVTzPOBUpRs9yjJxHvowtHJMRF-hRIEl3Ei4njTrYsrsUQY3wycXcO0zKd91CuQLR5hTfapBJWAVmVwUS_bD_9vN0f4LnlQqceqRpLioAaV4gBqTkeJ-df5TMrxWkHmTG7PT-v_tLD0BYw7kYeC_W59s&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 867,
+        "height": 1156,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-t1JfqcCkYyo2j0xee3HV7lnZSGmn9-1q-gCaNnDNlEfJghdRXVmIPu3lNQz9PdMBOeLRWmksCYwpQdweEHRbm6gS3hOWrorjX8DBO6KC5joQGjemFZZ3ihLdwt5GG76MJn9owIEZ1gdS_4psytcWzePfflWwmc2gISeHGwc7CGmdDWcfjs6-Jp9aExSDfvCfslg8vv4rbT5eXMp1jNTMAKZmRrr5WGBIgHt_QQK0mnebAWk4Pawq6fliXrso-HmOV2spI-y7JHQgNl49_3k1lOM-EdULjUetCU_Ar8wM2Zl0l2-8AH0bjHhVeRbYT23As9pYrwMLtT5C2r-Uvm7XNQhrVmU2ZNvMx9OiOHAPG0zmrjvfdoEy6IWzWtJK5U0RSFgzHeAnBoYrMpI7lOsiI0MIADHj6U0vtUvlzALBw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 867,
+        "height": 1156,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vlbNi7b9xaSUibsUf3Xm6sxwlCNP-Nmy1oprcRAteakefV3IJHIAx8-Gr5RMjY07vVS3CEnDorJJbCELLxGqfArfKz26dFHIOOEtjGzbMZCSs1QfWzcyeVxbSc8OeMtMd3_s_qgy5NQXX9ecKIzKZlvJkl6QjyBq1LVG4Ntdf3Rx7Q5fF55fHFh54WaYvJ1AFOGo8MNbbeSEiN0YNniSCZmf-zuDGPg0wJSSUNZ1nziPZ3rKPL9NpyOp2B2sWH_tdAcJivr_Lg0ULEA_iXdJ6vpSKvnfUU4515XDhtcisfgSKCpQQaZaTYcf6GfqY-67jtFfTHb4fuFosjZxlYGYRH2XcN5HKzL7S4YMy0vyze-on7IWPLNCwGLbyple6rMs9D0gOuuArU8MK8YS8Q-uLqNLiPH-DXLI0iA7XC85vQ7g&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vtwU9MEXoz-IM4LUtBtvxntZYrkS9BPWozH-hDG0SEudedQ2ptrzFwoAF4AwEvHDJkczU1FvCu-KvlU4IrzuQqV_CrEYYhwVJcWUF6RawsHR7hL7KEvyI2xuiZxRzgOITWwdsVGCTDyZowFL_5bP2eRzPMN64-Ff380tNyWPrMpCBT3w4_2yOz3uVftvNGdz_Z-QNonVVx9UmQJ6z0odng19dAIeT9MtwfTOL_GjwHL4_mESeVVpkR43oYoKa8Cxty5eDgfy8J3GkHlDPALWC9csrdAsLsoJh-umc0A_o-fp6cw1zVJlgs4_OgpXO6zAJgGGrLEuVc8S5DGKKX0F_hCPLTkk5h_qkbGLjckb000UpEQ1lDgJ8takHbfmjo50BB_cHeRUWaIBf4U1cmgRz04hHV6JWc580myxrYgvmKMQppdz2vJeSh0s91mcUt&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      }
+    ],
+    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-tcqAlBwAkd0Rt4QpitH78LnIcNnK_te_zgmpUN4rME7HCSYs9qKPpkuk0DSJWlTm4OChPED7_VxWXdxxnKvPCco9MfmWeSr_KrZDBvDEcuuUg_ylEupqkh__U7cu1susRVcjmySaYlcWNfCZgQn_pyFk-I6eYtXNvx4o_DmirDQn2UdDjDwVLB5dobnA_TgoOiBW0I-5VZUrRTP09zGYplEmMPWb5zdVfbKarzTl_Nbtgo24Ec86PZq7IOHruA1sy3OF4xgqYqWBuHCZONCW-4gXP6svftCZvwh4hIsOz36W8UmMm8d9kXc0PtZo7qM69cNKoNidmvZSLmyEw5kyVCj2PtjCXmEAPnHCmos-kUhS8fqs6Z4E3_p6Gf446uvv08SGfAWOkoSgLoD1qd3IhLc-BRJ-aHm6WQZMBjlP8F1EqF&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
   },
   "website_config": {
-    "theme": "dark-editorial",
-    "navbarVariant": "glassmorphism",
+    "theme": "luxury-fashion",
+    "navbarVariant": "transparent-floating",
     "footerVariant": "editorial-footer",
     "branding": {
-      "style": "Avant-Garde Studio",
-      "tone": "mysterious-luxurious"
+      "style": "Refined",
+      "tone": "Established"
     },
     "layout": {
       "sections": [
-        { "type": "Hero", "variant": "fullscreen-fashion" },
-        { "type": "About", "variant": "editorial-story" },
-        { "type": "Stats", "variant": "split-metrics" },
-        { "type": "Process", "variant": "image-process" },
-        { "type": "Reviews", "variant": "stacked-cards" },
-        { "type": "Contact", "variant": "dark-contact" }
+        {
+          "type": "Hero",
+          "variant": "luxury-parallax"
+        },
+        {
+          "type": "About",
+          "variant": "luxury-narrative"
+        },
+        {
+          "type": "Gallery",
+          "variant": "editorial-grid"
+        },
+        {
+          "type": "Reviews",
+          "variant": "editorial-quotes"
+        },
+        {
+          "type": "Contact",
+          "variant": "split-form"
+        }
       ]
     }
   },
   "website_content": {
     "hero": {
-      "tagline": "Architecting High-End Apparel for the World's Leading Fashion Houses",
-      "description": "Atelier Garment Exporters is a premier, luxury apparel and high-performance streetwear manufacturer. Running out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, working with elite global brands to bring conscious, couture-grade garment production to life at scale."
+      "title": "Crafting Excellence in Shirting Fabrics",
+      "subtitle": "Discover the unparalleled quality and sophisticated range for your next collection.",
+      "primaryButton": "Explore Fabrics",
+      "secondaryButton": "Get in Touch"
     },
     "about": {
-      "title": "Crafting conscious garment solutions for the contemporary epoch.",
-      "description": "Atelier Garment Exporters works with elite global brands to bring conscious, couture-grade garment production to life at scale. Operating out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, zero liquid discharge dyeing, and 3D precision draping."
+      "title": "About Our Legacy",
+      "description": "Since 1999, SHREE MAHAVIR FABRICS MFG CO. has been a cornerstone of quality in the textile industry. We specialize in premium shirting fabrics, offering a diverse selection of plain, printed, and dobby designs that combine durability with exceptional comfort and style."
     },
-    "stats": [
-      { "value": "30+", "label": "Global Brands Supported" },
-      { "value": "2.4M", "label": "Annual Garments Shipped" },
-      { "value": "98%", "label": "Water Recycled in Dyeing" },
-      { "value": "100%", "label": "Ethical Labor Compliance" }
-    ],
-    "fabrics": [
-      {
-        "name": "Ultra-Heavyweight Loopback Terry",
-        "weight": "480 GSM",
-        "composition": "100% Organic Long-Staple Cotton",
-        "description": "Designed for premier luxury streetwear. Highly robust structure, immense softness, and a clean structured drape.",
-        "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Tailored Silk-Wool Blends",
-        "weight": "240 GSM",
-        "composition": "70% Virgin Wool / 30% Mulberry Silk",
-        "description": "Engineered for high-end luxury draping and soft structure. Breathable warmth with a natural subtle sheen.",
-        "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Technical Recycled Ripstop Nylon",
-        "weight": "110 GSM",
-        "composition": "100% GRS Recycled Post-Consumer Nylon",
-        "description": "Ultra-lightweight micro-ripstop with sustainable water-repellent coating. Engineered for performance outerwear.",
-        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=1600&auto=format&fit=crop"
-      }
-    ],
-    "process": [
-      {
-        "step": "01",
-        "title": "Ethical Sourcing & Fiber Selection",
-        "description": "We secure superior long-staple organic cottons, sustainable wood-derived Tencel, and certified recycled technical fibers."
-      },
-      {
-        "step": "02",
-        "title": "Architectural Drafting & Pattern Modeling",
-        "description": "Collaborating closely with brand design teams, our engineers utilize advanced 3D pattern scanning for ultra-precise draping."
-      },
-      {
-        "step": "03",
-        "title": "Conscious Wet Processing",
-        "description": "Using high-efficiency low-liquor ratio dyeing machinery that recycles 98% of process water through zero liquid discharge systems."
-      },
-      {
-        "step": "04",
-        "title": "Craftsmanship-First Assembly",
-        "description": "Each line of stitching is managed by specialized artisans with decades of experience in working with high-end tailored garments."
-      }
-    ],
-    "gallery": [
-      {
-        "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1600&auto=format&fit=crop",
-        "title": "Precision tailoring assembly line",
-        "category": "Facility"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=1600&auto=format&fit=crop",
-        "title": "Premium fashion collection inspection",
-        "category": "Showcase"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1600&auto=format&fit=crop",
-        "title": "Conscious textile washing",
-        "category": "Processing"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?q=80&w=1600&auto=format&fit=crop",
-        "title": "Artisanal quality stitching control",
-        "category": "Craftsmanship"
-      }
-    ],
-    "reviews": [
-      {
-        "quote": "Atelier Exporters changed how we look at technical outerwear production. Their precision pattern engineering matched our strict luxury blueprints perfectly, and their ethical traceability metrics are unparalleled in the global supply chain.",
-        "author": "Marcus Sterling",
-        "role": "Director of Sourcing, Sterling Outerwear (London)"
-      },
-      {
-        "quote": "In high-concept modern streetwear, fabric handfeel and weight are everything. Atelier's custom loopback terry is the finest on the market, period. Their execution of zero-liquid discharge dyeing is a blueprint for the future of apparel.",
-        "author": "Elena Rossi",
-        "role": "Head of Production, NVRMIND Collective (Milan)"
-      }
-    ],
-    "faq": [
-      {
-        "question": "What are your Minimum Order Quantities (MOQs)?",
-        "answer": "To maintain our rigorous craftsmanship controls, our standard MOQs are 1,000 units per style / 500 units per colorway. Custom fabric developments may require higher initial volumes depending on fiber sourcing requirements."
-      },
-      {
-        "question": "How do you trace your raw organic fibers?",
-        "answer": "Every shipment of raw material is fully documented with direct transaction certificates under Global Organic Textile Standard (GOTS) and OCS certification. We provide complete transparent supply-chain documentation directly to brand partners."
-      },
-      {
-        "question": "What are your standard shipping lead times?",
-        "answer": "Our normal production timeline spans 8 to 12 weeks from tech-pack signoff and fabric approval. We utilize highly direct ocean cargo corridors via Chennai Port and fast air-freight pathways to major EU/US logistics hubs."
-      }
-    ],
-    "cta": {
-      "title": "Secure Your Brand's Next Autumn/Winter Production Run",
-      "subtitle": "Production Allocation",
-      "description": "We are now accepting custom fabric developments and production contracts for the upcoming collection cycle."
+    "gallery": {
+      "title": "Our Curated Collections",
+      "description": "Immerse yourself in the artistry of our textiles. Each weave and pattern tells a story of meticulous craftsmanship and timeless design."
+    },
+    "reviews": {
+      "title": "Voices of Our Esteemed Clients",
+      "description": "Hear directly from those who experience the exceptional quality and service of SHREE MAHAVIR FABRICS MFG CO."
+    },
+    "contact": {
+      "title": "Connect With Our Team",
+      "description": "For bespoke fabric solutions, collaborations, or inquiries, reach out to us. Our experts are ready to assist you.",
+      "buttonText": "Send an Inquiry"
     }
-  },
-  "seo": {
-    "title": "Atelier Garment Exporters | High-End Sustainable Apparel Manufacture",
-    "description": "Global, luxury garment and premium streetwear exporters. Operating dynamic carbon-neutral mills specializing in high-concept fashion, ethical organic fibers, and zero liquid discharge production."
-  },
-  "socials": {
-    "instagram": "https://instagram.com/ateliergarments",
-    "linkedin": "https://linkedin.com/company/atelier-garment-exporters"
   }
 }
